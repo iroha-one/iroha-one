@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # おススメします
 
-- [**iroha-one/db-specialist-exam-odoo**](https://github.com/iroha-one/db-specialist-exam-odoo)  
+- [**iroha-one/odoo-db-specialist-exam**](https://github.com/iroha-one/odoo-db-specialist-exam)  
 データベーススペシャリスト試験の[過去問](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/_index_mondai.html)を実装する試みを行っています。データベーススペシャリストとしての理解を深めることができます。[Docker](https://www.docker.com/)と[VS Code](https://code.visualstudio.com/)を事前にインストールしてください。
 
 - [**iroha-one/odoo-doc**](https://github.com/iroha-one/odoo-doc)  
