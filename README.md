@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - [**iroha-one/odoo-docs-locale-ja-18.0**](https://github.com/iroha-one/odoo-docs-locale-ja-18.0)  
 Odooドキュメントの日本語化を行っています([→ユーティリティ](https://github.com/iroha-one/odoo-docs-locale-ja-18.0/actions/workflows/crowdin-action.yml))。成果物は、[Odoo ドキュメント](https://iroha-one.github.io/odoo-docs-ja/)として公開しています([→ビルドツール](https://github.com/iroha-one/odoo-docs-ja/actions/workflows/build-odoo-docs-ja.yml))。  
-おすすめは、[「開発者向けドキュメント」]([https://iroha-one.github.io/odoo-docs-ja/developer/tutorials.html](https://iroha-one.github.io/odoo-docs-ja/developer.html))です。
+おすすめは、[「開発者向けドキュメント」](https://iroha-one.github.io/odoo-docs-ja/developer.html)です。
 
 - [**iroha-one/odoo-documentation-vscode**](https://github.com/iroha-one/odoo-documentation-vscode)  
 odooドキュメンテーションを[VS Code](https://code.visualstudio.com/)でメンテナンスできる開発環境です。[Docker](https://www.docker.com/)と[VS Code](https://code.visualstudio.com/)を事前にインストールしてください。
